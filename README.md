@@ -24,3 +24,5 @@
     
 -   We created our final model using  **Facenet**  and made predictions on the test set using it.
 
+:star:You can check the notebook [here](https://github.com/Harshada-m/Face-Recoginition/blob/main/1002_GCDAI_Capstone_Project.ipynb).
+
